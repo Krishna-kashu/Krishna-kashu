@@ -79,7 +79,7 @@
 <p>
   <a href="mailto:krishnavenin8192@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/krishnaveni-n-9b2185247/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/krishna_24official"><img src="https://img.shields.io/badge/Insta+Quotes-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/krishna_24official"><img src="https://img.shields.io/badge/Insta-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
